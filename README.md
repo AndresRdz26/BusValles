@@ -26,6 +26,5 @@ BusValles es una aplicación móvil diseñada para gestionar de manera eficiente
 2. **Reservar Lugar**: Selecciona el horario y el camión para reservar tu lugar en la fila, una hora.
 3. **Notificaciones**: Recibe notificaciones en tiempo real sobre el estado de la fila, el abordaje y la salida de los camiones.
 4. **Abordaje**: Sigue las indicaciones de la aplicación para abordar el camión de manera organizada y segura.
-5. **Feedback**: Envía tus sugerencias y comentarios a través de la opción de feedback en la aplicación.
 
 ---
